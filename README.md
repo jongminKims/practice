@@ -17,6 +17,7 @@ $ git clone {reop address}
 $ cd {repo name}
 $ vi REAdME.md
 '''
+Now, I am doing 
 
 ## How to start
 
